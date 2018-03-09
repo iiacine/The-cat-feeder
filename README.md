@@ -19,6 +19,36 @@ Les fonctionnalités de notre système sont les suivantes.
 
 
 
-Voir : => Description.docx
+
+SCHEMA  : 
 
 ![alt text](https://github.com/iiacine/The-cat-feeder/blob/master/Untitled%20Sketch%202_bb.png)
+
+TOOLS : 
+1 - Servo :
+![alt text](https://raw.githubusercontent.com/iiacine/The-cat-feeder/3641049310824dd578f488399951d71eaf3cc496/servo.png)
+
+1 - Resistance :
+![alt text](https://raw.githubusercontent.com/iiacine/The-cat-feeder/3641049310824dd578f488399951d71eaf3cc496/resis.png)
+
+1 - Capteur : 
+![alt text](https://raw.githubusercontent.com/iiacine/The-cat-feeder/3641049310824dd578f488399951d71eaf3cc496/capteur.png)
+
+1 - ESP : 
+![alt text](https://raw.githubusercontent.com/iiacine/The-cat-feeder/3641049310824dd578f488399951d71eaf3cc496/wifi.png)
+
+
+Team project :
+1er Jour : Idéation du projet, définir une poc.
+2eme & 3eme jours : Recherche,documentation,coding
+4eme jours : Finalisation de la documentation 
+
+Méthodologie agile : 
+Programmation en paire programming.
+Ahmed.K : Web server / servo  / capteur
+Yacine.d : Web server / servo  / capteur
+Hamidou.B:  Web server / servo  / capteur
+
+
+
+Voir : => Description.docx
