@@ -39,8 +39,8 @@ TOOLS :
 
 
 Team project :
-1er Jour : Idéation du projet, définir un poc./n
-2eme Jour: Recherche,documentation,coding . /n
+1er Jour : Idéation du projet, définir un poc.<br />
+2eme Jour: Recherche,documentation,coding . <br />
 3eme jour : Fin du premier MVP.
 4eme jour : Finalisation de la documentation 
 
