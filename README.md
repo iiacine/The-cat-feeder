@@ -39,9 +39,10 @@ TOOLS :
 
 
 Team project :
-1er Jour : Idéation du projet, définir une poc.
-2eme & 3eme jours : Recherche,documentation,coding
-4eme jours : Finalisation de la documentation 
+1er Jour : Idéation du projet, définir un poc.
+2eme Jour: Recherche,documentation,coding
+3eme jour : Fin du premier MVP
+4eme jour : Finalisation de la documentation 
 
 Méthodologie agile : 
 Programmation en paire programming.
