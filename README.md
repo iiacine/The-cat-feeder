@@ -41,14 +41,14 @@ TOOLS :
 Team project :
 1er Jour : Idéation du projet, définir un poc.<br />
 2eme Jour: Recherche,documentation,coding . <br />
-3eme jour : Fin du premier MVP.
-4eme jour : Finalisation de la documentation 
+3eme jour : Fin du premier MVP.<br />
+4eme jour : Finalisation de la documentation <br />
 
-Méthodologie agile : 
-Programmation en paire programming.
-Ahmed.K : Web server / servo  / capteur
-Yacine.d : Web server / servo  / capteur
-Hamidou.B:  Web server / servo  / capteur
+Méthodologie agile : <br />
+Programmation en paire programming.<br />
+Ahmed.K : Web server / servo  / capteur<br />
+Yacine.d : Web server / servo  / capteur<br />
+Hamidou.B:  Web server / servo  / capteur<br />
 
 
 
