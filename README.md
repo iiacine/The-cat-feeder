@@ -20,3 +20,5 @@ Les fonctionnalités de notre système sont les suivantes.
 
 
 Voir : => Description.docx
+
+![alt text](https://github.com/iiacine/The-cat-feeder/blob/master/Untitled%20Sketch%202_bb.png)
